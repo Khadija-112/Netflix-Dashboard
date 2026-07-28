@@ -10,21 +10,14 @@ This project analyzes the Netflix Movies and TV Shows dataset from Kaggle using 
 
 ## ✨ Features
 
-Interactive filters for **Title** and **Content Type**
-Global distribution of Netflix content by country
-Movies vs TV Shows comparison
-Content ratings analysis
-Top 10 most popular genres
-Year-wise growth of Netflix content
-Detailed information for each title including:
-Rating
-Release Year
-Genre
-Description
-Dynamic and user-friendly dashboard for data exploration
+~Interactive filters for **Title** and **Content Type**
+~Global distribution of Netflix content by country
+~Movies vs TV Shows comparison
+~Content ratings analysis
+~Top 10 most popular genres
+~Year-wise growth of Netflix content
 
-
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 Tableau Public
 Microsoft Excel
@@ -46,7 +39,6 @@ Content Rating Distribution
 Movies vs TV Shows Distribution
 Top 10 Genres
 Content Growth by Year
-Interactive Title Details
 Dynamic Filters (Type & Title)
 
 
