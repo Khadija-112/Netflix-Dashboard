@@ -24,10 +24,13 @@ This project analyzes the Netflix Movies and TV Shows dataset from Kaggle using 
 
 ## Tools & Technologies
 
--Tableau Public
--Microsoft Excel
--Kaggle Dataset
--Data Visualization
+1. Tableau Public
+
+2. Microsoft Excel
+
+3. Kaggle Dataset
+
+4. Data Visualization
 
 
 ## 📂 Dataset
