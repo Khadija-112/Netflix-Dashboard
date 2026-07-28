@@ -24,10 +24,10 @@ This project analyzes the Netflix Movies and TV Shows dataset from Kaggle using 
 
 ## Tools & Technologies
 
-Tableau Public
-Microsoft Excel
-Kaggle Dataset
-Data Visualization
+-Tableau Public
+-Microsoft Excel
+-Kaggle Dataset
+-Data Visualization
 
 
 ## 📂 Dataset
@@ -39,22 +39,24 @@ Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
 
 ### Key Dashboard Components
 
-Total Movies & TV Shows by Country
-Content Rating Distribution
-Movies vs TV Shows Distribution
-Top 10 Genres
-Content Growth by Year
-Dynamic Filters (Type & Title)
+1.Total Movies & TV Shows by Country
+
+2.Content Rating Distribution
+
+3.Top 10 Genres
+
+4.Content Growth by Year
+
+5.Dynamic Filters (Type & Title)
 
 
 ## 📈 Key Insights
 
-Movies account for nearly **70%** of Netflix's content library, while TV Shows make up around **30%**.
-TV-MA and TV-14 are the most common content ratings.
-Netflix experienced rapid content growth between **2016 and 2020**.
-Drama, International Movies, Documentaries, and Stand-Up Comedy are among the most represented genres.
-The United States contributes the largest share of Netflix content, followed by several other countries.
-Interactive filters allow users to analyze individual titles and compare different content categories.
+1. Movies account for nearly **70%** of Netflix's content library, while TV Shows make up around **30%**.
+2. TV-MA and TV-14 are the most common content ratings.
+3. Netflix experienced rapid content growth between **2016 and 2020**.
+4. The United States contributes the largest share of Netflix content, followed by several other countries.
+5. Interactive filters allow users to analyze individual titles and compare different content categories.
 
 
 ## 🎯 Business Value
